@@ -5,3 +5,4 @@ http://186.0.248.92:20202/
 http://186.0.248.91:20202/
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
+https://raw.githubusercontent.com/Duartegame/app.1/refs/heads/main/hoy.html
