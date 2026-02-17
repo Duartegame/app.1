@@ -1,38 +1,38 @@
-peliculas S1
+películas +1
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://45.225.68.1:8532/
-peliculas S2
+peliculas +2
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://181.209.112.98:40000/
-peliculas S3
+peliculas +3
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://186.0.248.89:20202/
-peliculas S4
+peliculas +4
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://186.0.248.92:20202/
-peliculas S5
+peliculas +5
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://186.0.248.91:20202/
-COLOMBIA
+COLOMBIA M3U
 https://i.postimg.cc/tRWnzL9H/In-Shot-20260216-101343942.jpg
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
-PREMIUM
+PREMIUM M3U
 https://i.postimg.cc/tRWnzL9H/In-Shot-20260216-101343942.jpg
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
-Futbol
+FÚTBOL *
 https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
 https://la14hd.com/
-EVENTOS2
+FUTBOL *
 https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
 https://www.tvporinternet2.com/
-Futbol
+FUTBOL *
 https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
 https://streamtp10.com/
-Futbol
+FUTBOL *
 https://i.postimg.cc/mgfMSvW0/food_(16).png
 https://tvtvhd.com/
-Gano vid +1
+FUTBOL *
 https://i.postimg.cc/mgfMSvW0/food_(16).png
 https://www.televisiongratishd3.com/ 
-PELICULAS
+PELICULAS 💚
 https://www.telegratuita.org/ 
